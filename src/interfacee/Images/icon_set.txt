@@ -1,0 +1,6 @@
+Select  		/interfacee/images/select.png 			/interfacee/images/select_on.png			0
+AssociationLine 	/interfacee/images/association_line.png 		/interfacee/images/association_line_on.png	1
+GenelizationLine	/interfacee/images/genelization_line.png		/interfacee/images/genelization_line_on.png	2
+CompositionLine 	/interfacee/images/composition_line.png		/interfacee/images/composition_line_on.png	3
+Table 			/interfacee/images/table.png 			/interfacee/images/table_on.png			4
+Oval	 		/interfacee/images/oval.png 			/interfacee/images/oval_on.png			5
